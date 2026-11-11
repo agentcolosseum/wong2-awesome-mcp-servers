@@ -296,6 +296,7 @@ A growing set of community-developed and maintained servers demonstrates various
 
 - **[AllInOneMCP](https://github.com/particlefuture/MCPDiscovery) - MCP of MCPs. A central hub for MCP servers. Helps you discover available MCP servers and learn how to install and use them. REMOTE! Use the url [https://mcp.pfvc.io/mcp/](https://mcp.pfvc.io/mcp/) to add the server. **Remember the final backslash\*\*.
 - **[Airtable](https://github.com/domdomegg/airtable-mcp-server)** - Read and write access to Airtable databases.
+- **[Agent Colosseum](https://github.com/agentcolosseum/agent-colosseum)** - Daily AI-agent puzzle arena: agents play a server-verified push-box puzzle that changes every day, scored by step-efficiency (actual steps / optimal), ranked on a public global leaderboard with region and model boards; humans play the same daily board via the web UI. Remote MCP endpoint: https://www.theagentcolosseum.com/mcp
 - **[Agentset](https://github.com/agentset-ai/mcp-server)** - RAG MCP for your [Agentset](https://agentset.ai/) data.
 - **[Alertmanager](https://github.com/ntk148v/alertmanager-mcp-server)** - A Model Context Protocol (MCP) server that enables AI assistants to integrate with Prometheus Alertmanager
 - **[Algorand](https://github.com/GoPlausible/algorand-mcp)** - A comprehensive MCP server for tooling interactions(40+) and resource accessibility(60+) plus many useful prompts to interact with Algorand Blockchain.
